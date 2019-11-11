@@ -23,8 +23,6 @@ carMakers.map((car: string) => {
 })
 
 // felxible types
-const importandDates: (Date | string)[] = [new Date()];
+const importandDates: (Date | string)[] = [];
 importandDates.push("2010-10-10"),
 importandDates.push(new Date());
-
-console.log(importandDates);
