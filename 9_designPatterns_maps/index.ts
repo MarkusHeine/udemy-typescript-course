@@ -1,3 +1,5 @@
+// to start use parcel bundler: parcel index.html
+
 import { User } from "./user";
 import { Company } from "./company";
 import { CustomMap } from "./CustomMap";
